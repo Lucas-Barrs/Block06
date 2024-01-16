@@ -1,0 +1,68 @@
+h1 {
+    text-decoration: wavy underline hotpink;
+    text-align: center;
+    color:blueviolet
+ }
+#produce {
+    background-color: lightgreen;
+    border: 10px dashed yellow ;
+    margin-top: 10px;
+}
+img {
+    width: 100%;
+    padding: auto;
+}
+.first {
+    background-color: #f5f556;
+    text-align: center;
+    color: cornflowerblue;
+}
+#fridge {
+    margin-top: 5%;
+    background-color: lightpink;
+    border: 10px groove deepskyblue 
+}
+.second{
+    background-color: lightblue;
+    text-align: center;
+    color:blueviolet
+}
+#pantry {
+    margin-top: 5%;
+    background-color: rgb(245, 234, 108);
+    border: 10px dotted hotpink;
+}
+.third{
+    background-color: lightpink;
+    text-align: center;
+    color:rgb(6, 116, 39)
+}
+#frozen {
+    margin-top: 5%;
+    background-color: skyblue;
+    border: 10px outset rgb(203, 128, 238)
+}
+.fourth{
+    background-color: mediumorchid;
+    text-align: center;
+    color:rgb(254, 254, 3)
+}
+.peas{
+    width: 66%;
+    padding-left: 15%;
+}
+ul>li{
+    list-style-type:square
+}
+ol>li{
+    list-style:lower-greek;
+}
+footer {
+    margin-top: 5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: darkolivegreen;
+    text-align: center;
+    font-size: large;
+    color: antiquewhite;
+    border: 8px solid rgb(242, 91, 22);
+}
